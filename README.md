@@ -5,13 +5,6 @@ This project provides a script to unsupervisedly annotate pavement lanemarking i
 <p float="left" align="center">
   <img src="./script_output_example/algo_flowchart.png" width="550" /> 
 </p>
-## Prerequisites
-
-Before you run the script, please ensure you meet the following prerequisites:
-
-- **NVIDIA GPU**: You need an NVIDIA GPU with at least 8GB of VRAM.
-- **Torch with CUDA**: Make sure you have Torch installed with CUDA support.
-
 
 ## Installation
 
@@ -60,7 +53,7 @@ sam_checkpoint: sam_checkpoint_path\sam_vit_h_4b8939.pth
 ```
 
 ## Usage 
-**To run the script use the following command.**
+**To run the script navegate to the Lane_Marking_Annotator directory then use the following command.**
 
 ```python
 python main_lane_marking_annotator.py --config config.yaml
