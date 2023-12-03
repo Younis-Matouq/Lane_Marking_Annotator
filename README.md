@@ -19,13 +19,13 @@ Follow these steps to install and run the script:
 
 1. **Clone the Repository Locally**: Use the following command to clone the repo:
    ```shell
-    git clone --recursive https://github.com/Younis-Matouq/converting_YOLO_style_rectangle_annotations_to_segmentation_annotations.git
+    git clone --recursive https://github.com/Younis-Matouq/Lane_Marking_Annotator.git
     ```
 
 2. **Navigate to the Project Directory**: Install the required Python packages using `pip`:
 
     ```shell
-    cd lane_marking_annotator
+    cd Lane_Marking_Annotator
     ```
 
    ```shell
